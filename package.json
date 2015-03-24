@@ -22,11 +22,11 @@
     "format-number": "~1.0.2",
     "blanket": "~1.1.6",
     "travis-cov": "~0.2.5",
-    "require-dir": "~0.1.0"
+    "require-dir": "~0.2.0"
   },
   "dependencies": {
     "lodash": "^3.0.0",
-    "require-all": "0.0.8",
+    "require-all": "^1.0.0",
     "ms": "~0.7.0"
   }
 }
